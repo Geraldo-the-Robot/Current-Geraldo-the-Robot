@@ -1,2 +1,2 @@
-# Current-Geraldo-the-Robot
-This is the current Geraldo.
+# Geraldo the Bot
+Our favorite little robot.
